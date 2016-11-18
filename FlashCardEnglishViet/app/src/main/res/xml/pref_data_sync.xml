@@ -1,0 +1,56 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<SwitchPreference-->
+        <!--android:key="SOUND_NOTIFICATION_CHALLENGE_BOOLEAN"-->
+        <!--android:summaryOff="@string/swithcerOff"-->
+        <!--android:summaryOn="@string/swithcerOn"-->
+        <!--android:defaultValue="true"-->
+        <!--android:title="@string/switcherSoundNotificationChallenge" />-->
+    <!--<SwitchPreference-->
+        <!--android:key="VIBRATOR_NOTIFICATION_CHALLENGE_BOOLEAN"-->
+        <!--android:summaryOff="@string/swithcerOff"-->
+        <!--android:summaryOn="@string/swithcerOn"-->
+        <!--android:defaultValue="true"-->
+        <!--android:title="@string/switcherVibratorNotificationChallenge" />-->
+
+    <!--<SwitchPreference-->
+        <!--android:key="AUTO_SPEAK_BOOLEAN"-->
+        <!--android:summaryOff="@string/swithcerOff"-->
+        <!--android:summaryOn="@string/swithcerOn"-->
+        <!--android:defaultValue="false"-->
+        <!--android:title="@string/switcherAutoSpeak" />-->
+
+    <!--&lt;!&ndash;<SwitchPreference&ndash;&gt;-->
+        <!--&lt;!&ndash;android:key="SPEAK_ONLINE_BOOLEAN"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:summaryOff="@string/swithcerOff"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:summaryOn="@string/swithcerOn"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:title="@string/switcherSpeakOnline" />&ndash;&gt;-->
+
+    <!--<SwitchPreference-->
+        <!--android:key="SERVICE_TRANSLATE_ONLINE_BOOLEAN"-->
+        <!--android:summaryOff="@string/swithcerOff"-->
+        <!--android:summaryOn="@string/swithcerOn"-->
+        <!--android:defaultValue="false"-->
+        <!--android:title="@string/switcherTranslateOnline" />-->
+
+    <!--<SwitchPreference-->
+        <!--android:key="RUN_SERVICE_BOOLEAN"-->
+        <!--android:summaryOff="@string/swithcerOff"-->
+        <!--android:summaryOn="@string/swithcerOn"-->
+        <!--android:defaultValue="true"-->
+        <!--android:title="@string/switcherRunService" />-->
+    <!--<PreferenceCategory android:title="@string/settingLanguageTranslate">-->
+        <!--<ListPreference-->
+            <!--android:defaultValue="en"-->
+            <!--android:entries="@array/listLanguage"-->
+            <!--android:entryValues="@array/listValues"-->
+            <!--android:key="SOURCE_LANGUAGE"-->
+            <!--android:title="@string/selectSourceLanguageTranslate" />-->
+        <!--<ListPreference-->
+            <!--android:defaultValue="vi"-->
+            <!--android:entries="@array/listLanguage"-->
+            <!--android:entryValues="@array/listValues"-->
+            <!--android:key="TARGET_LANGUAGE"-->
+            <!--android:title="@string/selectTargetLanguageTranslate" />-->
+
+    <!--</PreferenceCategory>-->
+</PreferenceScreen>
